@@ -1,12 +1,5 @@
-<<<<<<< HEAD
 # testRepo1
 
-test test test test test test
-test test test test test test
-test test test test test test
-test test test test test test
-test test test test test test
-=======
 # testRepository
 
 - change at local : J212
@@ -18,5 +11,6 @@ test test test test test test
 - change at main : J212
 
 Testing Git and Github!
-Written by K052
->>>>>>> 04b747e21d3dcd347e1b0151fd2c9835569e2e45
+Written by K052s
+
+test j213
