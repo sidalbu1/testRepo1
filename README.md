@@ -1,3 +1,3 @@
 # testRepo1
 
-- J212 : burningminor
+- J212 : nickname - burningminor
