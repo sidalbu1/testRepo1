@@ -1,3 +1,5 @@
+# testRepo1
+
 # testRepository
 
 - change at local : J212
@@ -9,6 +11,9 @@
 - change at main : J212
 
 Testing Git and Github!
-Written by K052
 
 ### K053 두번째
+
+Written by K052s
+
+test j213
