@@ -1,3 +1,3 @@
 # testRepo1
 
-- J212 : burningminor
+- add my nickname: J212
